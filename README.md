@@ -129,3 +129,7 @@ Would you like me to generate:
 - Sample reports (`juice-shop_scan.html`)?
 - Custom payload lists (for fuzzing)?
 - A full lab setup guide with Docker?
+
+
+To Configure Ip, Port and to import CA Certificate of burp suite refer to the link below given link:
+https://github.com/obitonohara/Burp-Suite-IP-and-Certificate
